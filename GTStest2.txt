@@ -1,0 +1,23 @@
+Test GTS 
+Git                                          
+cd \                                         
+cd Git      
+                                 
+cd Git ReproGTS1                             
+
+
+create txt file with comments             
+   
+  GTStest.txt                                
+git add GTStest.txt                     
+     
+git status                                   
+git commit -m "Oct comment" GTStest2.txt
+git 
+push -u origin master   
+2nd time edit txt
+git commit -m "October comment - second" 
+GTStest.txt
+git push -u origin master 
+
+                 
